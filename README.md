@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
