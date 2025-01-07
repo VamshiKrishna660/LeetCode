@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
