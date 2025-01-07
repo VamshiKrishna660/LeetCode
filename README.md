@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VamshiKrishna660/LeetCode/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
