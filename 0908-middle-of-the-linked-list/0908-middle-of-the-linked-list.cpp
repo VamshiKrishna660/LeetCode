@@ -14,18 +14,12 @@ public:
         if(head==nullptr){
             return head;
         }
-        int c=0;
-        ListNode* temp=head;
-        while(temp!=nullptr){
-            c++;
-            temp=temp->next;
+        ListNode* s=head;
+        ListNode* f=head;
+        while(f!=nullptr && f->next!=nullptr){
+            s=s->next;
+            f=f->next->next;
         }
-        c=c/2;
-        temp=head;
-        while(c--){
-            temp=temp->next;
-        }
-        return temp;
-
+        return s;
     }
 };
