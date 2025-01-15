@@ -16,13 +16,11 @@ public:
         ListNode* temp = head;
 
         while(temp!=nullptr){
-            t2 = temp->next;
-            temp->next = t1;
-            t1 = temp;
-            temp = t2;
+            t2=temp->next;
+            temp->next=t1;
+            t1=temp;
+            temp=t2;
         }
         return t1;
-
-
     }
 };
