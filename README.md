@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VamshiKrishna660/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
@@ -108,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -171,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
