@@ -4,14 +4,12 @@ public:
         int l=0;
         int r=numbers.size()-1;
         while(l<r){
-            int x=numbers[l]+numbers[r];
-            if(x == target)
-                return{l+1,r+1};
-            if(x>target)
+            if(numbers[l]+numbers[r]==target)
+                return {l+1,r+1};
+            if(numbers[l]+numbers[r]>target)
                 r--;
             else
                 l++;
-            
         }
         return {};
     }
