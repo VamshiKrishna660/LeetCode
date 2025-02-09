@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VamshiKrishna660/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VamshiKrishna660/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VamshiKrishna660/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VamshiKrishna660/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VamshiKrishna660/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0189-rotate-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VamshiKrishna660/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
