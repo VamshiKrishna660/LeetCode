@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VamshiKrishna660/LeetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/VamshiKrishna660/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/VamshiKrishna660/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/VamshiKrishna660/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VamshiKrishna660/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
