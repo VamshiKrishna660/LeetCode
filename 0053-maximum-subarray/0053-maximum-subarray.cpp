@@ -1,14 +1,13 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int sum=0;
-        int m=INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
+        // Follow Kadanes Algorithm
+        int l=0;
+        int sum=0,m=INT_MIN;
+        while(l<nums.size()){
+            sum=max(nums[l],sum+nums[l]);
             m=max(m,sum);
-            if(sum<0){
-                sum=0;
-            }
+            l++;
         }
         return m;
     }
