@@ -10,19 +10,18 @@
  * };
  */
 class Solution {
+private:
+    void postorder(vector<int>&res, TreeNode* root){
+        if(root == nullptr)
+            return;
+        postorder(res,root->left);
+        postorder(res,root->right);
+        res.push_back(root->val);
+    }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>res;
-        dfsPOST(root,res);
+        postorder(res,root);
         return res;
-    }
-private:
-    void dfsPOST(TreeNode* root,vector<int>&res){
-        if(root == nullptr){
-            return;
-        }
-        dfsPOST(root->left,res);
-        dfsPOST(root->right,res);
-        res.push_back(root->val);
     }
 };
