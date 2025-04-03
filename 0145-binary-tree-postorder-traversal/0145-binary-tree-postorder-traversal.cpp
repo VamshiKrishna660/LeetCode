@@ -10,18 +10,36 @@
  * };
  */
 class Solution {
-private:
-    void postorder(vector<int>&res, TreeNode* root){
-        if(root == nullptr)
-            return;
-        postorder(res,root->left);
-        postorder(res,root->right);
-        res.push_back(root->val);
-    }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int>res;
-        postorder(res,root);
+        // Performing postorder without recursion
+        // done with using stack
+        // Postorder -> left-right-root
+        // here we use 2 stacks 
+
+        if(!root){
+            return {};
+        }
+        stack<TreeNode*>stk1;
+        stack<TreeNode*>stk2;
+        vector<int>res;        
+        stk1.push(root);
+        while(!stk1.empty()){
+            root = stk1.top();
+            stk2.push(root);
+            stk1.pop();
+            if(root->left){
+                stk1.push(root->left);
+            }
+            if(root->right){
+                stk1.push(root->right);
+            }
+        }
+        while(!stk2.empty()){
+            res.push_back(stk2.top() -> val);
+            stk2.pop();
+        }
         return res;
+
     }
 };
