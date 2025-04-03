@@ -12,20 +12,27 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
+        // Performing without recursion using stack data structure
+        // dfs traversal with Stack
+
+        stack<TreeNode*>stk;
         vector<int>res;
-        dfsin(root,res);
+        TreeNode* node = root;
+        while(true){
+            if(node != nullptr){
+                stk.push(node);
+                node = node->left;
+            }
+            else{
+                if(stk.empty()){
+                    break;
+                }
+                node = stk.top();
+                stk.pop();
+                res.push_back(node->val);
+                node = node->right;
+            }
+        }
         return res;
     }
-private:
-    void dfsin(TreeNode* root,vector<int>& res){
-        if(root == nullptr){
-            return;
-        }
-
-        dfsin(root->left,res);
-        res.push_back(root->val);
-        dfsin(root->right,res);
-
-    }
-
 };
