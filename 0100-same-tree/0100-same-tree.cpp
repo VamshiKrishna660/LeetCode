@@ -10,35 +10,40 @@
  * };
  */
 class Solution {
+private:
+    int fun(TreeNode* p, TreeNode* q){
+        if(!p && !q)
+            return 0;
+        if((!p && q) || (p && !q)){
+            return -1;
+        }
+
+        if(p->val != q->val){
+            return -1;
+        }
+
+        int l = fun(p->left,q->left);
+        if(l==-1)   
+            return -1;
+        int r = fun(p->right,q->right);
+        if(r==-1)
+            return -1;
+       
+        return 0;
+    }
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p==NULL && q==NULL){
-            return true;
-        }
-        if(p==NULL || q==NULL){
+        if((!p && q) || (p && !q)){
             return false;
         }
-        bool res=true;
-        same(p,q,res);
-        return res;
-    }
-private:
-    void same(TreeNode* p,TreeNode* q,bool &res){
-        
-        if(p==nullptr && q==nullptr){
-            return;
+        if(!p && !q){
+            return true;
         }
-        if(p==nullptr || q==nullptr || !res){
-            res=false;
-            return;
+
+        int x = fun(p,q);
+        if(x==-1){
+            return false;
         }
-        if(p->val!=q->val){
-            res=false;
-            return;
-        }
-            
-        same(p->left,q->left,res);
-        same(p->right,q->right,res);
-              
+        return true;
     }
 };
