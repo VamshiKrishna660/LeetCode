@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VamshiKrishna660/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
@@ -234,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VamshiKrishna660/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
