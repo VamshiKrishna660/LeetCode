@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VamshiKrishna660/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/VamshiKrishna660/LeetCode/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
 | ------- |
@@ -256,8 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
