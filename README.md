@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VamshiKrishna660/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VamshiKrishna660/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -267,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
