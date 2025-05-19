@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -285,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 <!---LeetCode Topics End-->
