@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/VamshiKrishna660/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VamshiKrishna660/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [3639-zero-array-transformation-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
 | ------- |
