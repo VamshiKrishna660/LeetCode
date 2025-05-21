@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VamshiKrishna660/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VamshiKrishna660/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0136-single-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
