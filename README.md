@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VamshiKrishna660/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/VamshiKrishna660/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/VamshiKrishna660/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Array
 |  |
 | ------- |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [3321-type-of-triangle](https://github.com/VamshiKrishna660/LeetCode/tree/master/3321-type-of-triangle) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/VamshiKrishna660/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Matrix
 |  |
 | ------- |
@@ -309,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 <!---LeetCode Topics End-->
