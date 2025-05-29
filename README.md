@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/VamshiKrishna660/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VamshiKrishna660/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/VamshiKrishna660/LeetCode/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VamshiKrishna660/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VamshiKrishna660/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 ## Binary Search Tree
 |  |
