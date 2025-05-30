@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3113-beautiful-towers-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/3113-beautiful-towers-ii) |
 | [3194-find-words-containing-character](https://github.com/VamshiKrishna660/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/VamshiKrishna660/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VamshiKrishna660/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Stack
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
