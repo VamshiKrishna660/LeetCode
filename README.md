@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2145-grid-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/2145-grid-game) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2145-grid-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VamshiKrishna660/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2145-grid-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/2145-grid-game) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3639-zero-array-transformation-i) |
