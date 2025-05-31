@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/VamshiKrishna660/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/VamshiKrishna660/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3194-find-words-containing-character](https://github.com/VamshiKrishna660/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Array
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
