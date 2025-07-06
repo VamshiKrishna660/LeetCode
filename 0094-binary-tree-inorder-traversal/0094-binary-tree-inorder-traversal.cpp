@@ -11,17 +11,26 @@
  */
 class Solution {
 public:
-    void dfsin(vector<int>&res, TreeNode* root){
-        if(!root){
-            return;
-        }
-        dfsin(res,root->left);
-        res.push_back(root->val);
-        dfsin(res,root->right);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
+        stack<TreeNode*> stk;
         vector<int>res;
-        dfsin(res,root);
+        TreeNode* node = root;
+
+        while(true){
+            if(node){
+                stk.push(node);
+                node = node->left;
+            }
+            else{
+                if(stk.empty()){
+                    break;
+                }
+                node = stk.top();
+                stk.pop();
+                res.push_back(node->val);
+                node = node->right;
+            }
+        }
         return res;
     }
 };
