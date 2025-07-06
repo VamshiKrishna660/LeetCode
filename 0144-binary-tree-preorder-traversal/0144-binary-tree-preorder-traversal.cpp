@@ -11,17 +11,22 @@
  */
 class Solution {
 public:
-    void dfspre(vector<int>& res, TreeNode* root){
-        if(!root){
-            return;
-        }
-        res.push_back(root->val);
-        dfspre(res,root->left);
-        dfspre(res,root->right);
-    }
     vector<int> preorderTraversal(TreeNode* root) {
+        if(!root){
+            return {};
+        }
+        stack<TreeNode*> stk;
         vector<int>res;
-        dfspre(res, root);
+        stk.push(root);
+        while(!stk.empty()){
+            TreeNode* node = stk.top();
+            stk.pop();
+            res.push_back(node->val);
+            if(node->right)
+                stk.push(node->right);
+            if(node->left)
+                stk.push(node->left);
+        }
         return res;
     }
 };
