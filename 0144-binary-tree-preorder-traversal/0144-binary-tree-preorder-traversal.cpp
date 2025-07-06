@@ -10,18 +10,18 @@
  * };
  */
 class Solution {
-private:
-    void preorder(vector<int>&res, TreeNode* root){
-        if(root == nullptr)
-            return;
-        res.push_back(root->val);
-        preorder(res,root->left);
-        preorder(res,root->right);
-    }
 public:
+    void dfspre(vector<int>& res, TreeNode* root){
+        if(!root){
+            return;
+        }
+        res.push_back(root->val);
+        dfspre(res,root->left);
+        dfspre(res,root->right);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>res;
-        preorder(res,root);
+        dfspre(res, root);
         return res;
     }
 };
