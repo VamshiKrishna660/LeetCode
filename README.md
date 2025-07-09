@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
