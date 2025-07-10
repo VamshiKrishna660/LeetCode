@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0437-path-sum-iii) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VamshiKrishna660/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/VamshiKrishna660/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VamshiKrishna660/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Bucket Sort
