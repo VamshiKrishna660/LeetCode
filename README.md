@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VamshiKrishna660/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/2145-grid-game) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/VamshiKrishna660/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VamshiKrishna660/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1813-maximum-erasure-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VamshiKrishna660/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 ## Binary Search Tree
 |  |
