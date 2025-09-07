@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VamshiKrishna660/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VamshiKrishna660/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VamshiKrishna660/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VamshiKrishna660/LeetCode/tree/master/0118-pascals-triangle) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VamshiKrishna660/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/VamshiKrishna660/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/VamshiKrishna660/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VamshiKrishna660/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/VamshiKrishna660/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
