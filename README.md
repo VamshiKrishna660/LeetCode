@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VamshiKrishna660/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VamshiKrishna660/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0202-happy-number) |
 | [0826-soup-servings](https://github.com/VamshiKrishna660/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/VamshiKrishna660/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VamshiKrishna660/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VamshiKrishna660/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VamshiKrishna660/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
