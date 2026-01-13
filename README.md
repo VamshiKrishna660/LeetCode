@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VamshiKrishna660/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/VamshiKrishna660/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VamshiKrishna660/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VamshiKrishna660/LeetCode/tree/master/0283-move-zeroes) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VamshiKrishna660/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VamshiKrishna660/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VamshiKrishna660/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/VamshiKrishna660/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VamshiKrishna660/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/VamshiKrishna660/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VamshiKrishna660/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VamshiKrishna660/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
