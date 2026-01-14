@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/VamshiKrishna660/LeetCode/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/VamshiKrishna660/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/VamshiKrishna660/LeetCode/tree/master/0860-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VamshiKrishna660/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/VamshiKrishna660/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VamshiKrishna660/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/VamshiKrishna660/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/VamshiKrishna660/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VamshiKrishna660/LeetCode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/VamshiKrishna660/LeetCode/tree/master/0860-lemonade-change) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/VamshiKrishna660/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VamshiKrishna660/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
