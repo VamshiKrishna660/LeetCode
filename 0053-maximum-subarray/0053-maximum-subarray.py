@@ -1,10 +1,11 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        m = -2**31
-        sum=0
-        for i in range(0,len(nums)):
-            sum+=nums[i]
-            m=max(m,sum)
-            if sum<0:
-                sum=0
-        return m
+        # kadanes algorithm
+        curr = nums[0]
+        maxi = nums[0]
+
+        for i in nums[1:]:
+            curr = max(i, curr+i)
+            maxi = max(maxi, curr)
+        
+        return maxi
