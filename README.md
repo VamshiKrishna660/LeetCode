@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VamshiKrishna660/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/VamshiKrishna660/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3113-beautiful-towers-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/3113-beautiful-towers-ii) |
 | [3194-find-words-containing-character](https://github.com/VamshiKrishna660/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/VamshiKrishna660/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/VamshiKrishna660/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VamshiKrishna660/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VamshiKrishna660/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
@@ -505,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VamshiKrishna660/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/VamshiKrishna660/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VamshiKrishna660/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
