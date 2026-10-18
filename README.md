@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/VamshiKrishna660/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/VamshiKrishna660/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VamshiKrishna660/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2390-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3194-find-words-containing-character](https://github.com/VamshiKrishna660/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/VamshiKrishna660/LeetCode/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VamshiKrishna660/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2390-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/VamshiKrishna660/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VamshiKrishna660/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VamshiKrishna660/LeetCode/tree/master/0155-min-stack) |
 | [0886-score-of-parentheses](https://github.com/VamshiKrishna660/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiKrishna660/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/VamshiKrishna660/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3113-beautiful-towers-ii](https://github.com/VamshiKrishna660/LeetCode/tree/master/3113-beautiful-towers-ii) |
 ## Monotonic Stack
