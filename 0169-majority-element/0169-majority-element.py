@@ -6,7 +6,8 @@ class Solution:
                 mp[i] += 1
             else:
                 mp[i] = 1
-
-        for i in mp:
-            if mp[i] > len(nums)//2:
+        
+        for i in nums:
+            if mp[i] > len(nums)/2:
                 return i
+        
